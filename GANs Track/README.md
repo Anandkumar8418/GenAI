@@ -7,18 +7,19 @@ The focus is on understanding **Generative Adversarial Networks (GANs)** and the
 
 ## 📂 Repository Structure
 
-├── 📁 Reading Docs/ # Reference reading materials (PDFs)
-│ ├── Info on GANs.pdf # Basics of GANs, minimax game, BCE loss [Week 1]
-│ ├── Classification Problem.pdf # Binary Cross Entropy (BCE) explained
-│ ├── Additional Type of GANs.pdf # WGANs, cGANs, CycleGANs, SRGANs overview
-│
-├── 📁 IPYNBs/ # Jupyter notebooks with implementations
-│ ├── Vanilla GANs.ipynb # Intro GAN implementation [Week 1]
-│ ├── GAN_Assignment.ipynb # Assignment: FCGAN vs DCGAN [Week 1–2]
-│ ├── Wasserstein GANs.ipynb # Implementation of WGAN with gradient penalty [Week 2]
-│ ├── Conditional GANs.ipynb # Implementation of cGAN on MNIST [Week 3]
-│
-├── GDG GenAI Phase 2.pdf # Project outline & weekly roadmap
+├── 📁 Reading Docs/                # Reference reading materials (PDFs)  
+│   ├── Info on GANs.pdf            # Basics of GANs, minimax game, BCE loss  
+│   ├── Classification Problem.pdf  # Binary Cross Entropy (BCE) explained  
+│   ├── Additional Type of GANs.pdf # WGANs, cGANs, CycleGANs, SRGANs overview  
+
+├── 📁 IPYNBs/                      # Jupyter notebooks with implementations  
+│   ├── Vanilla GANs.ipynb          # Intro GAN implementation  
+│   ├── GAN_Assignment.ipynb        # Assignment: FCGAN vs DCGAN  
+│   ├── Wasserstein GANs.ipynb      # Implementation of WGAN with gradient penalty  
+│   ├── Conditional GANs.ipynb      # Implementation of cGAN on MNIST  
+
+├── GDG GenAI Phase 2.pdf           # Project outline & roadmap  
+
 
 
 ---
